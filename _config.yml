@@ -1,0 +1,29 @@
+name: Charroup
+favicon: null
+layout_spectrum: 0.39393077488057315
+typography_spectrum: 0.4517650846391916
+title: Charro  UP
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.1916947439312935
+  lightness: 0.13106845086440444
+  saturation: 0.02378228842280805
+  rhythmicContrast: 0.6667468135710806
+purpose: []
